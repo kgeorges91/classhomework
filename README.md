@@ -1,0 +1,2 @@
+# classhomework
+small exercises
